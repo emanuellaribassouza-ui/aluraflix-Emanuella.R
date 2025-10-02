@@ -28,3 +28,8 @@ p {
     color:#ccc;
     margin: 0 0 12px 0;
 }
+
+iframe {
+    max-width: 100%;
+    display: block;
+}
